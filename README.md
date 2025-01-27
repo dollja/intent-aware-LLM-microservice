@@ -1,6 +1,5 @@
 # Multi-level intent-aware LLM
 A multi-level intention-aware LLM that uses Theory of Mind to anticipate how its decisions and actions will affect human rapport  levels. The model integrates appraisal theory to assess the significance of these actions within the context of the team's goals and then adapts its behavior to enable the integration of individual mental states into collective, coherent views and decisions.
-To integrate the capability of generating **multi-level intent-aware LLM responses** that utilize **Theory of Mind (ToM)** and **Appraisal Theory**, we will expand the Python backend to:
 
 --
 ### **Key Features*
