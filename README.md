@@ -1,8 +1,5 @@
-
-# Multi-Level Intent-Aware Microservice App
-
-## Overview
- A multi-level intention-aware LLM that uses theory of mind to anticipate how its decisions and actions will affect human rapport levels. The model integrates appraisal theory to assess the significance of these actions within the context of the team's goals, then adapts its behavior to enable the integration of individual mental states into collective, coherent views and decisions.
+# Multi-level intent-aware LLM
+A multi-level intention-aware LLM that uses Theory of Mind to anticipate how its decisions and actions will affect human rapport  levels. The model integrates appraisal theory to assess the significance of these actions within the context of the team's goals and then adapts its behavior to enable the integration of individual mental states into collective, coherent views and decisions.
 
 --
 
