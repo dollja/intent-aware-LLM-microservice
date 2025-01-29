@@ -13,8 +13,6 @@ A multi-level intention-aware LLM that uses Theory of Mind to anticipate how its
 
 ---
 
-## Planning
-
 ### Requirements:
 - Python 3.8 or later
 - Node.js 14.x or later
@@ -41,8 +39,8 @@ A multi-level intention-aware LLM that uses Theory of Mind to anticipate how its
 
 #### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-repo/trust-aware-app.git
-cd trust-aware-app
+git clone https://github.com/your-repo/intent-aware-app.git
+cd intent-aware-app
 ```
 
 #### 2. Set Up the Python Backend
